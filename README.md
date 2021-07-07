@@ -18,7 +18,9 @@ Discord Python Logger, Easy setup!
 How to make a webhook!
 
 Writing this proccess maybe a bit hard!
-To make it simple, I'll post a video below!
+To make it simple, I'll post a video below! 
+
+(**Not made by me, credits to rightful owners!**)
 
 https://user-images.githubusercontent.com/84992554/124681509-adf66980-de96-11eb-87a9-9cfc16f95403.mp4
 
