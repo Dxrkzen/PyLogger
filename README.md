@@ -5,7 +5,7 @@ Discord Python Logger, Easy setup!
 - Log's Discord App Token
 - Log's Discord Chrome Token
 - 100% Safe & Legit
-- Grabs IP, Computer Name, Username of PC
+- Grabs IP, Computer Name, Username of PC etc.
 
 # Setup
 1. Download the python file
