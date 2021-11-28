@@ -28,6 +28,4 @@ https://user-images.githubusercontent.com/84992554/124681509-adf66980-de96-11eb-
 
 # Credits
 
-Credits: Daddyzenith#0001
-
-![discordprofilebanner](https://user-images.githubusercontent.com/84992554/124681800-56a4c900-de97-11eb-975b-275d1c97da19.gif)
+Credits: Dxrkz#6666
